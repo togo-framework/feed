@@ -1,4 +1,4 @@
-module github.com/fadymondy/feed
+module github.com/togo-framework/feed
 
 go 1.26.4
 
